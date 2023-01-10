@@ -1,8 +1,8 @@
 # ATM-VHDL
-A part of a university project for simulation ATM (my part is Balance inquiry and Cash deposit).
+A part of a university project for simulation ATM (my part is Balance inquiry).
 
 # Explain project
-* only Balance inquiry and Cash deposit implemented in this repository.
+* only Balance inquiry implemented in this repository.
 >[final project.pdf](https://github.com/MohammadMahdi80/ATM-VHDL/files/10383660/1.pdf)
 
 
