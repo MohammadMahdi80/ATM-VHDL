@@ -15,8 +15,12 @@ reading this result from Isim is tedious and the other hand PyQt is powerful lib
 > ![image](https://user-images.githubusercontent.com/82968741/211578704-80b10e6c-ba73-4585-9a26-9cfd0ec1beff.png)
 
 * run `test.py` and see simulation easily:
->![image](https://user-images.githubusercontent.com/82968741/211581851-026aa0b5-447b-4a42-9cdf-2d9ed50e7904.png)
+`clk` show clock of circuit and with clicking Next button amount of `clk` will increace.
+depend on project description, LEDs are show action of user.
+five buttom is available in FPGA board. in our app color of this buttons are change to show changes.
 
 user in this step are in Balance Inquery
 >![image](https://user-images.githubusercontent.com/82968741/211582288-86d25805-b957-4b51-99b1-130e49bbdd12.png)
+
+
 
